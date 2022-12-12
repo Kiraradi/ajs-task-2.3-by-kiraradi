@@ -1,0 +1,10 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+}
+
+h1 {
+    font-size: 25px;
+}

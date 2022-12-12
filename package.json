@@ -1,0 +1,23 @@
+{
+  "name": "ajs-task-2.3-by-kiraradi",
+  "version": "1.0.0",
+  "description": "[Мое портфолио](https://kiraradi.github.io/Portfolio/)",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiraradi/ajs-task-2.3-by-kiraradi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiraradi/ajs-task-2.3-by-kiraradi/issues"
+  },
+  "homepage": "https://github.com/Kiraradi/ajs-task-2.3-by-kiraradi#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
